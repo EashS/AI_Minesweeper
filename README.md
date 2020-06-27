@@ -1,5 +1,5 @@
 # AI_Minesweeper
-Minesweeper application built using artificial algorithms 
+Minesweeper application built using A.I. algorithms like Hill-Climbing and Simulated Annealing
 
 @author: EASHAN SAPRE
 
